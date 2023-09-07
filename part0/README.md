@@ -2,10 +2,14 @@
 
 _https://fullstackopen.com/en/part0_
 
+## 0.1-0.3
+
+_This exercise is not submitted to GitHub, it's enough to just read the tutorial_
+
 ## 0.4: New note diagram
 
 <details>
-<summary>Diagram of communication browser-server after click in new note</summary>
+<summary>Diagram of communication browser-server after click in the _save_ button</summary>
 <pre>
 browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
 server-->browser: State 302 redirect to https://studies.cs.helsinki.fi/exampleapp/notes
@@ -77,7 +81,7 @@ end note
 <summary>Diagram of communication browser-server after click in new note in spa</summary>
 <pre>
 browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
-server-->browser: State 201 created (not HTML-code to re-render the webpage)
+server-->browser: State 201 created (not HTML-code to render the webpage returned)
 
 note over browser:
 browser starts executing js-code
@@ -90,3 +94,7 @@ end note
 </details>
 
 ![Diagram new note spa](diagrams/newnote_spa.png)
+
+# Credits
+
+- The diagrams was generated with https://www.websequencediagrams.com/
