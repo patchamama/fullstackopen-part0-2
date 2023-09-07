@@ -2,6 +2,6 @@
 
 _https://fullstackopen.com/en/part1_
 
-- [anecdotes](anecdotes)
 - [courseinfo](courseinfo)
+- [anecdotes](anecdotes)
 - [unicafe](unicafe)
