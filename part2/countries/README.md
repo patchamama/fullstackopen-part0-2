@@ -1,4 +1,4 @@
-# Answers to _part2/countries (2.18-2.20)_
+# Answers to _[Part2](../)/countries (2.18-2.20)_
 
 - https://fullstackopen.com/en/part2/adding_styles_to_react_app#exercises-2-18-2-20
 
