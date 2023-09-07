@@ -33,10 +33,18 @@ browser executes the event handler
 that renders notes to display
 end note
 
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/CircularXXWeb-Book.wolff2 font
+server-->browser: CircularXXWeb-Book.wolff2
+
+note over browser:
+browser render html code using font defined
+end note
+
 </pre>
 </details>
 
 ![Diagram new note](diagrams/newnote.png)
+![Diagram new note](diagrams/newnote_devtools.png)
 
 ## 0.5: Single page app diagram
 
@@ -73,7 +81,8 @@ end note
 </pre>
 </details>
 
-![Diagram new note spa](diagrams/note_spa.png)
+![Diagram note spa](diagrams/note_spa.png)
+![Diagram note spa devtools](diagrams/note_spa_devtools.png)
 
 ## 0.6: New note in Single page app diagram
 
@@ -94,7 +103,9 @@ end note
 </details>
 
 ![Diagram new note spa](diagrams/newnote_spa.png)
+![Diagram new note spa](diagrams/newnote_spa_devtools.png)
 
 # Credits
 
 - The diagrams was generated with https://www.websequencediagrams.com/
+- Google [chrome dev tools](https://developer.chrome.com/docs/devtools/) to analize the web pages
