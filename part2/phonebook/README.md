@@ -1,4 +1,4 @@
-# Answers to _part2/phonebook (2.6-2.17)_
+# Answers to _[Part2](.../)/phonebook (2.6-2.17)_
 
 - https://fullstackopen.com/en/part2/forms#exercises-2-6-2-10
 - https://fullstackopen.com/en/part2/getting_data_from_server#exercise-2-11
