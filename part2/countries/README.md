@@ -1,12 +1,16 @@
 # Answers to _part2/countries (2.18-2.20)_
 
-https://fullstackopen.com/en/part2/adding_styles_to_react_app#exercises-2-18-2-20
+- https://fullstackopen.com/en/part2/adding_styles_to_react_app#exercises-2-18-2-20
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+Install packages/dependencies
+
+### `npm install`
 
 In the project directory, you can run:
 

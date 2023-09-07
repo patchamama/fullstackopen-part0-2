@@ -1,13 +1,17 @@
 # Answers to _part1/courseinfo (1.1-1.5)_
 
-https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2
-https://fullstackopen.com/en/part1/java_script#exercises-1-3-1-5
+- https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2
+- https://fullstackopen.com/en/part1/java_script#exercises-1-3-1-5
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+Install packages/dependencies
+
+### `npm install`
 
 In the project directory, you can run:
 

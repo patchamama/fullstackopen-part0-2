@@ -1,12 +1,16 @@
 # Answers to _part1/unicafe (1.6-1.11)_
 
-https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#exercises-1-6-1-14
+- https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#exercises-1-6-1-14
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+Install packages/dependencies
+
+### `npm install`
 
 In the project directory, you can run:
 
