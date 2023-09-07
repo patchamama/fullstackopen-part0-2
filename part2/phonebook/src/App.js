@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Persons from './components/Persons.js';
-import Notification from './components/Notification';
+import Notification from './components/Notification.js';
 import PersonForm from './components/PersonForm.js';
 import Filter from './components/Filter.js';
 import phoneServices from './services/Person.js';
