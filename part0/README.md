@@ -68,6 +68,7 @@ end note
 
 </pre>
 </details>
+
 ![Diagram new note spa](diagrams/note_spa.png)
 
 ## 0.6: New note in Single page app diagram
@@ -87,4 +88,5 @@ end note
 
 </pre>
 </details>
+
 ![Diagram new note spa](diagrams/newnote_spa.png)
